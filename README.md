@@ -408,8 +408,8 @@ To create a UX design and develop a web application for event registration.
 ```
 ## OUTPUT:
 
-![output](./img/1.png)
-![output](./img/2.png)
-![output](./img/3.png)
+![output](./static/img/1.png)
+![output](./static/img/2.png)
+![output](./static/img/3.png)
 ## RESULT:
 Thus, the websites: http://loghul.student.saveetha.in:8000/home/ successfully displays the house price pridiction and house model training.
